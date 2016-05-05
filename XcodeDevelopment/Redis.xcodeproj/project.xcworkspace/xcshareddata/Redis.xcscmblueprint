@@ -1,0 +1,400 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4492AA7787944F4C721D0D5FB3BD3B2D431F41FC" : 0,
+    "3014C92A932180E351A8BBC323068EFE8C6D8A4F" : 0,
+    "269ADF55FAAC04D68303BE30B6BD693E717155DE" : 0,
+    "8E0D4C95050A313F64EB00D127485BAC5DFE9CBB" : 0,
+    "DB226666853AF627C41DE82088752E7B8226691C" : 0,
+    "702080DFCC87BF364D28CF43D4A1F89910A896D9" : 0,
+    "4B8317071C2E8191C0071D14B19E229FF434BD5B" : 0,
+    "3B4FAAEE2A714A56056BB5968260AF324231CB4F" : 0,
+    "8951CEB15DDB2D711276960E67900B8AA34FF427" : 0,
+    "DAC5F8E3A59CA22331758BE384D7B9F0CF9E2D93" : 0,
+    "2E9A255B8C4A541DAE969561046FB664B3884D64" : 0,
+    "10A2CB6C4392F0E306FF8D509BE5E88232276EA4" : 0,
+    "997F6D72B6636BD16A82A9AFFBB55CCAE1A5596D" : 0,
+    "B742DF7B80BBF68A32B78BB0F9363B98CF2914AA" : 0,
+    "57932305D7AF3390B1D4C8A3D4D1FCFFE771843F" : 0,
+    "8F4B638DC94C89C3B963241215A06337F758ED77" : 0,
+    "9348C08FA6E530D0AF68AD65DF11B8E209FEE984" : 0,
+    "6C5E4AB76800809C93AC51D40831D43487DB820F" : 0,
+    "FDDA6274B55B6BE33F0EAB0AC1F75687925D7F32" : 0,
+    "CBA994F1F459E2B0EADFAFB04D634A14DC994C8B" : 0,
+    "3D6F6B53BDDA8E119F30655DE36350A7D2AAB365" : 0,
+    "EEB4909D83F96F5BD9469CDDE9596289619DBE1F" : 0,
+    "4020B0EB6A338A70C005D7F839A0A57446C5CF81" : 0,
+    "5B08D8F82BD4359F8FA09519F5D71C91519D0D16" : 0,
+    "908FC933CA96C901B9EB7FCA1AC9BEABA3C7F49F" : 0,
+    "A81E0D233F26EFE9E6A20F59C14007BDF46446CE" : 0,
+    "005B9B2121E5ECB4835A496685B289C04558B742" : 0,
+    "F6BBDDB316BE6EBAFCB5E3A1FDF30B3903082E98" : 0,
+    "900D198C3FB851E8F8E01B008846A319DD357A70" : 0,
+    "66FB12B2039D50DE5AF09A44F1172B3A2880CFB8" : 0,
+    "D4199CF4A45E212E54A4CEE7E34326E0BC446862" : 0,
+    "263CB4FA9C0490C625F5699A665256FA6727E57D" : 0,
+    "7EAFBE9F81BBD61C9608E772740363C22AC1C86A" : 0,
+    "A1C9BB2BEC01F03A6E3E883A352BF6F440537234" : 0,
+    "F19BDD9B00AB4F2647E5D4948DE63DEF61DF400F" : 0,
+    "15033DFF73D1DAA84A806DC9B6994613D8A2EB4F" : 0,
+    "C274ABCCABABC9F55ED329880DD113121DABD8E6" : 0,
+    "8FD8F7B1FD76A28DE77193D7D058AFD5380E5269" : 0,
+    "BC4F18C8C7F08249E9651E82076CAED54BEAADF7" : 0,
+    "AA281943A66D4246DAB48EC5AAEFAB0D1E06AD66" : 0,
+    "BA5BC904DE865840E8180B6952FAEA9753C3F7A1" : 0,
+    "6DE266EE60EEEBC7266E53F4904DBB0988A2B63B" : 0,
+    "24E824D2D435D7CC7AC42AFDFDFE2DB335C163DB" : 0,
+    "4C40C860B4786749914FAE6F65C7DE13296994FB" : 0,
+    "9E7AC6E92C5B357CF5D40820B5008FE0E3E73B58" : 0,
+    "F7C618AF8E5D458AC5B29714A23DA142DF51FD59" : 0,
+    "92743D3DE37E0F8CD3845F61745F4F467678A0A4" : 0,
+    "8D2296B3978D73F29F92A5319CC4250CE078B90B" : 0,
+    "704B817219E4CBC31AA92368EF54A4E2835A8C3D" : 0,
+    "901D39F10963DCBC990E02C949E08901C0DDB8E3" : 0,
+    "EB3A58D245911351A063DF08C170DE3415B65824" : 0,
+    "F4A7D698CFE490C9CAF7D225323A7A235929C3A8" : 0,
+    "8EA55D99626F7F8C5D77B0953DD3A6C47133CE2E" : 0,
+    "D75AA077AA3F474CD93153CDC26FC1F29E063D60" : 0,
+    "1D5E3FB3EB19F2DAF5FDEE97CBD5C55259A1CEC1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "45FAD04E-054F-4E23-B066-8C11B576452E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4492AA7787944F4C721D0D5FB3BD3B2D431F41FC" : "ZeroMQ\/",
+    "3014C92A932180E351A8BBC323068EFE8C6D8A4F" : "PostgreSQL\/",
+    "269ADF55FAAC04D68303BE30B6BD693E717155DE" : "CHTTPParser\/",
+    "8E0D4C95050A313F64EB00D127485BAC5DFE9CBB" : "Mustache\/",
+    "DB226666853AF627C41DE82088752E7B8226691C" : "JSONMediaType\/",
+    "702080DFCC87BF364D28CF43D4A1F89910A896D9" : "..\/open-swift\/S4",
+    "4B8317071C2E8191C0071D14B19E229FF434BD5B" : "WebSocket\/",
+    "3B4FAAEE2A714A56056BB5968260AF324231CB4F" : "PathParameterMiddleware\/",
+    "8951CEB15DDB2D711276960E67900B8AA34FF427" : "MediaType\/",
+    "DAC5F8E3A59CA22331758BE384D7B9F0CF9E2D93" : "URLEncodedFormMediaType\/",
+    "2E9A255B8C4A541DAE969561046FB664B3884D64" : "ContentNegotiationMiddleware\/",
+    "10A2CB6C4392F0E306FF8D509BE5E88232276EA4" : "String\/",
+    "997F6D72B6636BD16A82A9AFFBB55CCAE1A5596D" : "..\/VeniceX\/TCPSSL",
+    "B742DF7B80BBF68A32B78BB0F9363B98CF2914AA" : "Log\/",
+    "57932305D7AF3390B1D4C8A3D4D1FCFFE771843F" : "HTTPParser\/",
+    "8F4B638DC94C89C3B963241215A06337F758ED77" : "Resource\/",
+    "9348C08FA6E530D0AF68AD65DF11B8E209FEE984" : "Base64\/",
+    "6C5E4AB76800809C93AC51D40831D43487DB820F" : "..\/VeniceX\/ChannelStream",
+    "FDDA6274B55B6BE33F0EAB0AC1F75687925D7F32" : "OpenSSL\/",
+    "CBA994F1F459E2B0EADFAFB04D634A14DC994C8B" : "..\/VeniceX\/File",
+    "3D6F6B53BDDA8E119F30655DE36350A7D2AAB365" : "CLibpq\/",
+    "EEB4909D83F96F5BD9469CDDE9596289619DBE1F" : "CURIParser\/",
+    "4020B0EB6A338A70C005D7F839A0A57446C5CF81" : "..\/VeniceX\/HTTPSClient",
+    "5B08D8F82BD4359F8FA09519F5D71C91519D0D16" : "Mapper\/",
+    "908FC933CA96C901B9EB7FCA1AC9BEABA3C7F49F" : "..\/VeniceX\/TCP",
+    "A81E0D233F26EFE9E6A20F59C14007BDF46446CE" : "TrieRouteMatcher\/",
+    "005B9B2121E5ECB4835A496685B289C04558B742" : "Event\/",
+    "F6BBDDB316BE6EBAFCB5E3A1FDF30B3903082E98" : "Sideburns\/",
+    "900D198C3FB851E8F8E01B008846A319DD357A70" : "..\/VeniceX\/Venice",
+    "66FB12B2039D50DE5AF09A44F1172B3A2880CFB8" : "URI\/",
+    "D4199CF4A45E212E54A4CEE7E34326E0BC446862" : "HTTP\/",
+    "263CB4FA9C0490C625F5699A665256FA6727E57D" : "..\/VeniceX\/HTTPSServer",
+    "7EAFBE9F81BBD61C9608E772740363C22AC1C86A" : "HTTPJSON\/",
+    "A1C9BB2BEC01F03A6E3E883A352BF6F440537234" : "LogMiddleware\/",
+    "F19BDD9B00AB4F2647E5D4948DE63DEF61DF400F" : "MessagePack\/",
+    "15033DFF73D1DAA84A806DC9B6994613D8A2EB4F" : "..\/VeniceX\/IP",
+    "C274ABCCABABC9F55ED329880DD113121DABD8E6" : "POSIXRegex\/",
+    "8FD8F7B1FD76A28DE77193D7D058AFD5380E5269" : "XML\/",
+    "BC4F18C8C7F08249E9651E82076CAED54BEAADF7" : "JSON\/",
+    "AA281943A66D4246DAB48EC5AAEFAB0D1E06AD66" : "Router\/",
+    "BA5BC904DE865840E8180B6952FAEA9753C3F7A1" : "..\/VeniceX\/HTTPServer",
+    "6DE266EE60EEEBC7266E53F4904DBB0988A2B63B" : "SQL\/",
+    "24E824D2D435D7CC7AC42AFDFDFE2DB335C163DB" : "..\/VeniceX\/UDP",
+    "4C40C860B4786749914FAE6F65C7DE13296994FB" : "..\/VeniceX\/HTTPFile",
+    "9E7AC6E92C5B357CF5D40820B5008FE0E3E73B58" : "RecoveryMiddleware\/",
+    "F7C618AF8E5D458AC5B29714A23DA142DF51FD59" : "COpenSSL\/",
+    "92743D3DE37E0F8CD3845F61745F4F467678A0A4" : "BasicAuthMiddleware\/",
+    "8D2296B3978D73F29F92A5319CC4250CE078B90B" : "..\/open-swift\/C7",
+    "704B817219E4CBC31AA92368EF54A4E2835A8C3D" : "POSIX\/",
+    "901D39F10963DCBC990E02C949E08901C0DDB8E3" : "StructuredData\/",
+    "EB3A58D245911351A063DF08C170DE3415B65824" : "..\/VeniceX\/HTTPClient",
+    "F4A7D698CFE490C9CAF7D225323A7A235929C3A8" : "RegexRouteMatcher\/",
+    "8EA55D99626F7F8C5D77B0953DD3A6C47133CE2E" : "URLEncodedForm\/",
+    "D75AA077AA3F474CD93153CDC26FC1F29E063D60" : "HTTPSerializer\/",
+    "1D5E3FB3EB19F2DAF5FDEE97CBD5C55259A1CEC1" : "..\/VeniceX\/CLibvenice"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Redis",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "XcodeDevelopment\/Redis.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/Event",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "005B9B2121E5ECB4835A496685B289C04558B742"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/String",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "10A2CB6C4392F0E306FF8D509BE5E88232276EA4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/VeniceX\/IP",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "15033DFF73D1DAA84A806DC9B6994613D8A2EB4F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/VeniceX\/CLibvenice",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1D5E3FB3EB19F2DAF5FDEE97CBD5C55259A1CEC1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/VeniceX\/UDP",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "24E824D2D435D7CC7AC42AFDFDFE2DB335C163DB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/VeniceX\/HTTPSServer",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "263CB4FA9C0490C625F5699A665256FA6727E57D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/CHTTPParser",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "269ADF55FAAC04D68303BE30B6BD693E717155DE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/ContentNegotiationMiddleware",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2E9A255B8C4A541DAE969561046FB664B3884D64"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/PostgreSQL",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3014C92A932180E351A8BBC323068EFE8C6D8A4F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/PathParameterMiddleware",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3B4FAAEE2A714A56056BB5968260AF324231CB4F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/CLibpq",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3D6F6B53BDDA8E119F30655DE36350A7D2AAB365"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/VeniceX\/HTTPSClient",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4020B0EB6A338A70C005D7F839A0A57446C5CF81"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/ZeroMQ",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4492AA7787944F4C721D0D5FB3BD3B2D431F41FC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/WebSocket",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4B8317071C2E8191C0071D14B19E229FF434BD5B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/VeniceX\/HTTPFile",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4C40C860B4786749914FAE6F65C7DE13296994FB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/HTTPParser",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "57932305D7AF3390B1D4C8A3D4D1FCFFE771843F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/Mapper",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5B08D8F82BD4359F8FA09519F5D71C91519D0D16"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/URI",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "66FB12B2039D50DE5AF09A44F1172B3A2880CFB8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/VeniceX\/ChannelStream",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6C5E4AB76800809C93AC51D40831D43487DB820F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/SQL",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6DE266EE60EEEBC7266E53F4904DBB0988A2B63B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/open-swift\/S4",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "702080DFCC87BF364D28CF43D4A1F89910A896D9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/POSIX",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "704B817219E4CBC31AA92368EF54A4E2835A8C3D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/HTTPJSON",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7EAFBE9F81BBD61C9608E772740363C22AC1C86A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/MediaType",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8951CEB15DDB2D711276960E67900B8AA34FF427"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/open-swift\/C7",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8D2296B3978D73F29F92A5319CC4250CE078B90B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/Mustache",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8E0D4C95050A313F64EB00D127485BAC5DFE9CBB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/URLEncodedForm",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8EA55D99626F7F8C5D77B0953DD3A6C47133CE2E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/Resource",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8F4B638DC94C89C3B963241215A06337F758ED77"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/XML",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8FD8F7B1FD76A28DE77193D7D058AFD5380E5269"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/VeniceX\/Venice",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "900D198C3FB851E8F8E01B008846A319DD357A70"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/StructuredData",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "901D39F10963DCBC990E02C949E08901C0DDB8E3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/VeniceX\/TCP",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "908FC933CA96C901B9EB7FCA1AC9BEABA3C7F49F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/BasicAuthMiddleware",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "92743D3DE37E0F8CD3845F61745F4F467678A0A4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/Base64",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9348C08FA6E530D0AF68AD65DF11B8E209FEE984"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/VeniceX\/TCPSSL",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "997F6D72B6636BD16A82A9AFFBB55CCAE1A5596D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/RecoveryMiddleware",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9E7AC6E92C5B357CF5D40820B5008FE0E3E73B58"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/LogMiddleware",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A1C9BB2BEC01F03A6E3E883A352BF6F440537234"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/TrieRouteMatcher",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A81E0D233F26EFE9E6A20F59C14007BDF46446CE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/Router",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AA281943A66D4246DAB48EC5AAEFAB0D1E06AD66"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/Log",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B742DF7B80BBF68A32B78BB0F9363B98CF2914AA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/VeniceX\/HTTPServer",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BA5BC904DE865840E8180B6952FAEA9753C3F7A1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/JSON",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BC4F18C8C7F08249E9651E82076CAED54BEAADF7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/POSIXRegex",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C274ABCCABABC9F55ED329880DD113121DABD8E6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/VeniceX\/File",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CBA994F1F459E2B0EADFAFB04D634A14DC994C8B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/HTTP",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D4199CF4A45E212E54A4CEE7E34326E0BC446862"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/HTTPSerializer",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D75AA077AA3F474CD93153CDC26FC1F29E063D60"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/URLEncodedFormMediaType",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DAC5F8E3A59CA22331758BE384D7B9F0CF9E2D93"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/JSONMediaType",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DB226666853AF627C41DE82088752E7B8226691C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/VeniceX\/HTTPClient",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EB3A58D245911351A063DF08C170DE3415B65824"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/CURIParser",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EEB4909D83F96F5BD9469CDDE9596289619DBE1F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/MessagePack",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F19BDD9B00AB4F2647E5D4948DE63DEF61DF400F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/RegexRouteMatcher",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F4A7D698CFE490C9CAF7D225323A7A235929C3A8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/Sideburns",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F6BBDDB316BE6EBAFCB5E3A1FDF30B3903082E98"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/COpenSSL",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F7C618AF8E5D458AC5B29714A23DA142DF51FD59"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/OpenSSL",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FDDA6274B55B6BE33F0EAB0AC1F75687925D7F32"
+    }
+  ]
+}
