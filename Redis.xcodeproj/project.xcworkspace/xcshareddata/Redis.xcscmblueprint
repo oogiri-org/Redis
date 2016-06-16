@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F074D4122A81B250E602C1606D98C32D61A1944C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F074D4122A81B250E602C1606D98C32D61A1944C" : 0,
+    "15033DFF73D1DAA84A806DC9B6994613D8A2EB4F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C711E503-4C82-4ABB-9326-7A762C6691C6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F074D4122A81B250E602C1606D98C32D61A1944C" : "Redis\/",
+    "15033DFF73D1DAA84A806DC9B6994613D8A2EB4F" : "Redis\/Packages\/IP-0.7.0\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Redis",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Redis.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/VeniceX\/IP.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "15033DFF73D1DAA84A806DC9B6994613D8A2EB4F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/oogiri-org\/Redis.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F074D4122A81B250E602C1606D98C32D61A1944C"
+    }
+  ]
+}
