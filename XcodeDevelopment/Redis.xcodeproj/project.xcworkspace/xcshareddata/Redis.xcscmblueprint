@@ -1,4 +1,5 @@
 {
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F074D4122A81B250E602C1606D98C32D61A1944C",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
@@ -23,6 +24,7 @@
     "6C5E4AB76800809C93AC51D40831D43487DB820F" : 0,
     "FDDA6274B55B6BE33F0EAB0AC1F75687925D7F32" : 0,
     "CBA994F1F459E2B0EADFAFB04D634A14DC994C8B" : 0,
+    "F074D4122A81B250E602C1606D98C32D61A1944C" : 0,
     "3D6F6B53BDDA8E119F30655DE36350A7D2AAB365" : 0,
     "EEB4909D83F96F5BD9469CDDE9596289619DBE1F" : 0,
     "4020B0EB6A338A70C005D7F839A0A57446C5CF81" : 0,
@@ -81,6 +83,7 @@
     "6C5E4AB76800809C93AC51D40831D43487DB820F" : "..\/VeniceX\/ChannelStream",
     "FDDA6274B55B6BE33F0EAB0AC1F75687925D7F32" : "OpenSSL\/",
     "CBA994F1F459E2B0EADFAFB04D634A14DC994C8B" : "..\/VeniceX\/File",
+    "F074D4122A81B250E602C1606D98C32D61A1944C" : "Redis\/",
     "3D6F6B53BDDA8E119F30655DE36350A7D2AAB365" : "CLibpq\/",
     "EEB4909D83F96F5BD9469CDDE9596289619DBE1F" : "CURIParser\/",
     "4020B0EB6A338A70C005D7F839A0A57446C5CF81" : "..\/VeniceX\/HTTPSClient",
@@ -370,6 +373,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/CURIParser",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EEB4909D83F96F5BD9469CDDE9596289619DBE1F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/oogiri-org\/Redis.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F074D4122A81B250E602C1606D98C32D61A1944C"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/MessagePack",
