@@ -41,12 +41,22 @@ struct Parser {
 		case "$":
 			// Bulk string
 			let idx = Int(response.indexOf(character: "\r\n")!)
+#if false
 			if response[response.startIndex..<response.index(response.startIndex, offsetBy: idx)] == "-1" {
 				// nil string
 				result = nil
 			} else {
 				result = String(response[response.index(response.startIndex, offsetBy: idx)..<response.endIndex])
 			}
+#else	// oogiri-org
+			let length = response[response.startIndex..<response.startIndex.advanced(by: idx)]
+			if length == "-1" {
+				// nil string
+				result = nil
+			} else {
+				result = String(response[response.startIndex.advanced(by: idx + 1)..<response.startIndex.advanced(by: idx + 1 + Int(length)!)])
+			}
+#endif
 
 		case "*":
 			// Arrays
